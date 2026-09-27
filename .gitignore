@@ -1,0 +1,6 @@
+﻿models/
+data/
+*.safetensors
+*.pkl
+*.bin
+*.pt
